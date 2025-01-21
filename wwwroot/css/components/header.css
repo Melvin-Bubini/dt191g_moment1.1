@@ -1,0 +1,7 @@
+/* Header (vänster navigering) */
+.header {
+    width: 250px; /* Bestäm bredden på navigeringen */
+    background-color: #f8f9fa; /* Ljus bakgrundsfärg */
+    border-right: 1px solid #ddd; /* Avgränsning till höger */
+    overflow-y: auto; /* Lägg till scroll om innehållet överstiger höjden */
+  }

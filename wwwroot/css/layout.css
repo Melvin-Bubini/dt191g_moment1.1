@@ -1,0 +1,5 @@
+/* För layouten */
+.d-flex {
+    display: flex;
+    height: 100vh; /* Fyll hela höjden av skärmen */
+  }
