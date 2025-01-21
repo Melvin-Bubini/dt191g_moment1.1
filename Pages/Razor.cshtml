@@ -2,8 +2,43 @@
 @model MyApp.Namespace.RazorModel
 @{
     ViewData["Title"] = "Razor";
+
+    var date = DateTime.Now;
+    var day = DateTime.Now.DayOfWeek;
+    string[] courses = [
+    "DT084G, Introduktion till programmering i JavaScript",
+"DT057G, Webbutveckling I",
+"DT200G, Grafisk teknik för webb",
+"DT071G, Programmering i C#.NET",
+"DT003G, Databaser",
+"DT211G, Frontend-baserad webbutveckling",
+"DT210G, Fördjupad frontend-utveckling",
+"DT193G, Fullstack-utveckling med ramverk",
+"DT207G, Backend-baserad webbutveckling",
+"DT208G, Programmering i TypeScript",
+"DT068G, Webbanvändbarhet",
+"DT209G, Webbutveckling för Wordpress",
+"DT191G, Webbutveckling med .NET",
+"IK060G, Projektledning" ];
 }
 
-<h1>Razor sida</h1>
+<h1>Razor</h1>
 
-<p>Det är är Razor sidan</p>
+<h2>Information</h2>
+
+<p><strong>Datum och klockslag: </strong> @date</p>
+
+@if (day == DayOfWeek.Friday)
+{
+    <p>I dag är det fredag!</p>
+} else {
+    <p>I dag är det inte fredag</p>
+}
+
+<h2>Kurser jag läst:</h2>
+<ul>
+    @for (int i = 0; i < courses.Length; i++)
+    {
+        <li>@courses[i]</li>
+    }
+</ul>

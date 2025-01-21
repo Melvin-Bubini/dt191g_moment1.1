@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JlOHtyTnZgUGglNPCkrYtJYAiKS+7x1hQY3yC9z8nzo=",
+  "Hash": "2Z9Rd2o0MXN+H7b4Haw2j8j4KHTC5xwm9Y8+J0gYqiM=",
   "Source": "dt191g_moment1.1",
   "BasePath": "_content/dt191g_moment1.1",
   "Mode": "Default",
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-hu11x0g04j.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-bda84nuxio.gz",
       "SourceId": "dt191g_moment1.1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_moment1.1",
-      "RelativePath": "css/components/header#[.{fingerprint=hu11x0g04j}]?.css.gz",
+      "RelativePath": "css/components/header#[.{fingerprint=bda84nuxio}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\components\\header.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "whb9z6sesr",
-      "Integrity": "jEJTqTBoQ6PyILhrB/O/pTz7x/HdGoTiorP+cu+ngdY=",
+      "Fingerprint": "ncf6n7s6fv",
+      "Integrity": "yTld6aZcrjPJT0MigKyqhr/RbYf4xk3eHDk/7Ng8mDw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\components\\header.css"
@@ -794,12 +794,12 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-e87sfferrk.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-i62taaabiu.gz",
       "SourceId": "dt191g_moment1.1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_moment1.1",
-      "RelativePath": "css/site#[.{fingerprint=e87sfferrk}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=i62taaabiu}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -808,8 +808,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uzdkgkgxhe",
-      "Integrity": "2qN9gY0RT9pcW50lvh9uLiv7UKNvMDgX8TWrsmzy3V4=",
+      "Fingerprint": "6j4hfinyd6",
+      "Integrity": "zufPfTHz97q48qNeSxq1nDyF7p/2nvyvpaIgHupn/iU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\site.css"
@@ -1004,12 +1004,12 @@
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-slr7snlpu2.gz",
+      "Identity": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-chvw7b4ua2.gz",
       "SourceId": "dt191g_moment1.1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/dt191g_moment1.1",
-      "RelativePath": "css/layout#[.{fingerprint=slr7snlpu2}]?.css.gz",
+      "RelativePath": "css/layout#[.{fingerprint=chvw7b4ua2}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\layout.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eb1sib9a0e",
-      "Integrity": "VpwL4qjwmbOmfmfTXdJTgOCwWZAlRDG9UTMONwAjyZY=",
+      "Fingerprint": "csa7ewff64",
+      "Integrity": "XDCOBI34+yx6FdFMXkcg4l0iUVf44kTknPdoP6Wngc0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\layout.css"
@@ -1606,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hu11x0g04j",
-      "Integrity": "mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho=",
+      "Fingerprint": "bda84nuxio",
+      "Integrity": "f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\components\\header.css"
@@ -1627,8 +1627,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "slr7snlpu2",
-      "Integrity": "gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong=",
+      "Fingerprint": "chvw7b4ua2",
+      "Integrity": "oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\layout.css"
@@ -1732,8 +1732,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e87sfferrk",
-      "Integrity": "nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg=",
+      "Fingerprint": "i62taaabiu",
+      "Integrity": "SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3362,13 +3362,13 @@
       ]
     },
     {
-      "Route": "css/components/header.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-hu11x0g04j.gz",
+      "Route": "css/components/header.bda84nuxio.css",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-bda84nuxio.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000907441016"
+          "Quality": "0.001526717557"
         }
       ],
       "ResponseHeaders": [
@@ -3378,19 +3378,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1101"
+          "Value": "654"
         },
         {
           "Name": "ETag",
-          "Value": "\"jEJTqTBoQ6PyILhrB/O/pTz7x/HdGoTiorP+cu+ngdY=\""
+          "Value": "\"yTld6aZcrjPJT0MigKyqhr/RbYf4xk3eHDk/7Ng8mDw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:43:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:45:21 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3406,18 +3406,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho=\""
+          "Value": "W/\"f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bda84nuxio"
+        },
+        {
+          "Name": "label",
+          "Value": "css/components/header.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho="
+          "Value": "sha256-f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE="
         }
       ]
     },
     {
-      "Route": "css/components/header.css",
+      "Route": "css/components/header.bda84nuxio.css",
       "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\components\\header.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3427,7 +3435,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2980"
+          "Value": "1642"
         },
         {
           "Name": "Content-Type",
@@ -3435,121 +3443,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho=\""
+          "Value": "\"f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:43:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho="
-        }
-      ]
-    },
-    {
-      "Route": "css/components/header.css.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-hu11x0g04j.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1101"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jEJTqTBoQ6PyILhrB/O/pTz7x/HdGoTiorP+cu+ngdY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:43:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jEJTqTBoQ6PyILhrB/O/pTz7x/HdGoTiorP+cu+ngdY="
-        }
-      ]
-    },
-    {
-      "Route": "css/components/header.hu11x0g04j.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-hu11x0g04j.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000907441016"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1101"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jEJTqTBoQ6PyILhrB/O/pTz7x/HdGoTiorP+cu+ngdY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:43:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:45:21 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hu11x0g04j"
+          "Value": "bda84nuxio"
         },
         {
           "Name": "label",
@@ -3557,13 +3465,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho="
+          "Value": "sha256-f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE="
         }
       ]
     },
     {
-      "Route": "css/components/header.hu11x0g04j.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\components\\header.css",
+      "Route": "css/components/header.bda84nuxio.css.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-bda84nuxio.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3572,7 +3480,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2980"
+          "Value": "654"
         },
         {
           "Name": "Content-Type",
@@ -3580,56 +3488,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho=\""
+          "Value": "\"yTld6aZcrjPJT0MigKyqhr/RbYf4xk3eHDk/7Ng8mDw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:43:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hu11x0g04j"
-        },
-        {
-          "Name": "label",
-          "Value": "css/components/header.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mYCPtuB7pqlk+p37Kvdb0uZ4yv5Q4kYEDFYRpLDWrho="
-        }
-      ]
-    },
-    {
-      "Route": "css/components/header.hu11x0g04j.css.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-hu11x0g04j.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1101"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jEJTqTBoQ6PyILhrB/O/pTz7x/HdGoTiorP+cu+ngdY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:43:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:45:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3647,7 +3510,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hu11x0g04j"
+          "Value": "bda84nuxio"
         },
         {
           "Name": "label",
@@ -3655,18 +3518,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jEJTqTBoQ6PyILhrB/O/pTz7x/HdGoTiorP+cu+ngdY="
+          "Value": "sha256-yTld6aZcrjPJT0MigKyqhr/RbYf4xk3eHDk/7Ng8mDw="
         }
       ]
     },
     {
-      "Route": "css/layout.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-slr7snlpu2.gz",
+      "Route": "css/components/header.css",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-bda84nuxio.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.008264462810"
+          "Quality": "0.001526717557"
         }
       ],
       "ResponseHeaders": [
@@ -3676,15 +3539,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "120"
+          "Value": "654"
         },
         {
           "Name": "ETag",
-          "Value": "\"VpwL4qjwmbOmfmfTXdJTgOCwWZAlRDG9UTMONwAjyZY=\""
+          "Value": "\"yTld6aZcrjPJT0MigKyqhr/RbYf4xk3eHDk/7Ng8mDw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:24:18 GMT"
+          "Value": "Tue, 21 Jan 2025 13:45:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3704,18 +3567,163 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong=\""
+          "Value": "W/\"f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong="
+          "Value": "sha256-f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE="
         }
       ]
     },
     {
-      "Route": "css/layout.css",
+      "Route": "css/components/header.css",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\components\\header.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:45:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f0Zt4gXMRZVUu19y+mk+HeDB0q2/v1DHi6celJ52LCE="
+        }
+      ]
+    },
+    {
+      "Route": "css/components/header.css.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\b4otjyqowi-bda84nuxio.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yTld6aZcrjPJT0MigKyqhr/RbYf4xk3eHDk/7Ng8mDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:45:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yTld6aZcrjPJT0MigKyqhr/RbYf4xk3eHDk/7Ng8mDw="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.chvw7b4ua2.css",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-chvw7b4ua2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003802281369"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDCOBI34+yx6FdFMXkcg4l0iUVf44kTknPdoP6Wngc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:51:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "chvw7b4ua2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.chvw7b4ua2.css",
       "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\layout.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3725,7 +3733,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111"
+          "Value": "450"
         },
         {
           "Name": "Content-Type",
@@ -3733,121 +3741,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong=\""
+          "Value": "\"oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong="
-        }
-      ]
-    },
-    {
-      "Route": "css/layout.css.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-slr7snlpu2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VpwL4qjwmbOmfmfTXdJTgOCwWZAlRDG9UTMONwAjyZY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VpwL4qjwmbOmfmfTXdJTgOCwWZAlRDG9UTMONwAjyZY="
-        }
-      ]
-    },
-    {
-      "Route": "css/layout.slr7snlpu2.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-slr7snlpu2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.008264462810"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "120"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VpwL4qjwmbOmfmfTXdJTgOCwWZAlRDG9UTMONwAjyZY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:24:18 GMT"
+          "Value": "Tue, 21 Jan 2025 13:51:13 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "slr7snlpu2"
+          "Value": "chvw7b4ua2"
         },
         {
           "Name": "label",
@@ -3855,13 +3763,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong="
+          "Value": "sha256-oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII="
         }
       ]
     },
     {
-      "Route": "css/layout.slr7snlpu2.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\layout.css",
+      "Route": "css/layout.chvw7b4ua2.css.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-chvw7b4ua2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3870,7 +3778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "111"
+          "Value": "262"
         },
         {
           "Name": "Content-Type",
@@ -3878,56 +3786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong=\""
+          "Value": "\"XDCOBI34+yx6FdFMXkcg4l0iUVf44kTknPdoP6Wngc0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:24:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "slr7snlpu2"
-        },
-        {
-          "Name": "label",
-          "Value": "css/layout.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gG+eWdnegsZ9n+DDrmrFZ6+SKR6hPcbrDhnoLfCEong="
-        }
-      ]
-    },
-    {
-      "Route": "css/layout.slr7snlpu2.css.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-slr7snlpu2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "120"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VpwL4qjwmbOmfmfTXdJTgOCwWZAlRDG9UTMONwAjyZY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:24:18 GMT"
+          "Value": "Tue, 21 Jan 2025 13:51:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3945,7 +3808,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "slr7snlpu2"
+          "Value": "chvw7b4ua2"
         },
         {
           "Name": "label",
@@ -3953,7 +3816,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VpwL4qjwmbOmfmfTXdJTgOCwWZAlRDG9UTMONwAjyZY="
+          "Value": "sha256-XDCOBI34+yx6FdFMXkcg4l0iUVf44kTknPdoP6Wngc0="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.css",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-chvw7b4ua2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003802281369"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDCOBI34+yx6FdFMXkcg4l0iUVf44kTknPdoP6Wngc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:51:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.css",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:51:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGXm+acWct7UHC7JEGdAw6u9x0DjjYsQYco+IjUviII="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.css.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\nbnyfu7xfi-chvw7b4ua2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDCOBI34+yx6FdFMXkcg4l0iUVf44kTknPdoP6Wngc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:51:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XDCOBI34+yx6FdFMXkcg4l0iUVf44kTknPdoP6Wngc0="
         }
       ]
     },
@@ -5151,12 +5151,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-e87sfferrk.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-i62taaabiu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002232142857"
+          "Quality": "0.001686340641"
         }
       ],
       "ResponseHeaders": [
@@ -5166,15 +5166,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "447"
+          "Value": "592"
         },
         {
           "Name": "ETag",
-          "Value": "\"2qN9gY0RT9pcW50lvh9uLiv7UKNvMDgX8TWrsmzy3V4=\""
+          "Value": "\"zufPfTHz97q48qNeSxq1nDyF7p/2nvyvpaIgHupn/iU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:54:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5194,13 +5194,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg=\""
+          "Value": "W/\"SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg="
+          "Value": "sha256-SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U="
         }
       ]
     },
@@ -5215,7 +5215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "888"
+          "Value": "1295"
         },
         {
           "Name": "Content-Type",
@@ -5223,11 +5223,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg=\""
+          "Value": "\"SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:54:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5237,13 +5237,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg="
+          "Value": "sha256-SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-e87sfferrk.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-i62taaabiu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5252,7 +5252,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "447"
+          "Value": "592"
         },
         {
           "Name": "Content-Type",
@@ -5260,11 +5260,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2qN9gY0RT9pcW50lvh9uLiv7UKNvMDgX8TWrsmzy3V4=\""
+          "Value": "\"zufPfTHz97q48qNeSxq1nDyF7p/2nvyvpaIgHupn/iU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:54:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5282,18 +5282,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2qN9gY0RT9pcW50lvh9uLiv7UKNvMDgX8TWrsmzy3V4="
+          "Value": "sha256-zufPfTHz97q48qNeSxq1nDyF7p/2nvyvpaIgHupn/iU="
         }
       ]
     },
     {
-      "Route": "css/site.e87sfferrk.css",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-e87sfferrk.gz",
+      "Route": "css/site.i62taaabiu.css",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-i62taaabiu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002232142857"
+          "Quality": "0.001686340641"
         }
       ],
       "ResponseHeaders": [
@@ -5303,15 +5303,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "447"
+          "Value": "592"
         },
         {
           "Name": "ETag",
-          "Value": "\"2qN9gY0RT9pcW50lvh9uLiv7UKNvMDgX8TWrsmzy3V4=\""
+          "Value": "\"zufPfTHz97q48qNeSxq1nDyF7p/2nvyvpaIgHupn/iU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:54:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5331,13 +5331,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg=\""
+          "Value": "W/\"SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e87sfferrk"
+          "Value": "i62taaabiu"
         },
         {
           "Name": "label",
@@ -5345,12 +5345,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg="
+          "Value": "sha256-SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U="
         }
       ]
     },
     {
-      "Route": "css/site.e87sfferrk.css",
+      "Route": "css/site.i62taaabiu.css",
       "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5360,7 +5360,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "888"
+          "Value": "1295"
         },
         {
           "Name": "Content-Type",
@@ -5368,11 +5368,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg=\""
+          "Value": "\"SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:54:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5382,7 +5382,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e87sfferrk"
+          "Value": "i62taaabiu"
         },
         {
           "Name": "label",
@@ -5390,13 +5390,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nr6yTbWuRh0odUx90I3jdY+mPW1bybi4KC2kMivgtZg="
+          "Value": "sha256-SsLsvfAcE0AkVPOm8meCVGJI88ihBKqjh82E0c7/X+U="
         }
       ]
     },
     {
-      "Route": "css/site.e87sfferrk.css.gz",
-      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-e87sfferrk.gz",
+      "Route": "css/site.i62taaabiu.css.gz",
+      "AssetFile": "C:\\Users\\melvi\\OneDrive\\Skrivbord\\dt191g_moment1.1\\obj\\Debug\\net9.0\\compressed\\ixfouxxgk2-i62taaabiu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5405,7 +5405,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "447"
+          "Value": "592"
         },
         {
           "Name": "Content-Type",
@@ -5413,11 +5413,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2qN9gY0RT9pcW50lvh9uLiv7UKNvMDgX8TWrsmzy3V4=\""
+          "Value": "\"zufPfTHz97q48qNeSxq1nDyF7p/2nvyvpaIgHupn/iU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:54:35 GMT"
+          "Value": "Tue, 21 Jan 2025 13:58:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5435,7 +5435,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e87sfferrk"
+          "Value": "i62taaabiu"
         },
         {
           "Name": "label",
@@ -5443,7 +5443,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2qN9gY0RT9pcW50lvh9uLiv7UKNvMDgX8TWrsmzy3V4="
+          "Value": "sha256-zufPfTHz97q48qNeSxq1nDyF7p/2nvyvpaIgHupn/iU="
         }
       ]
     },

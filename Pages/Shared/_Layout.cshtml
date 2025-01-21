@@ -8,19 +8,18 @@
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/dt191g_moment1._1.styles.css" asp-append-version="true" />
     <link rel="icon" href="~/favicon.ico" type="image/x-icon">
 </head>
 
 <body>
-    <div class="header-container border-bottom border-black vw-100">
+    <div class="header-container border-bottom border-white border-2 vw-100">
         <!-- Logotyp -->
         <a class="navbar-brand mb-0" asp-area="" asp-page="/Index">
             <img id="logotyp" src="images/standardLogo.svg" alt="Logotyp">
         </a>
 
         <!-- Datum -->
-        <div>
+        <div class="border border-white p-3">
             @{
                 var date = DateOnly.FromDateTime(DateTime.Now);
             }
@@ -31,35 +30,35 @@
 
     <div class="d-flex">
         <!-- Header (vänster navigering) -->
-        <header class="header m-3 border border-black">
-            <nav class="navbar navbar-expand-sm navbar-light bg-white vh-100">
+        <header class="header m-3 border border-white border-2">
+            <nav class="navbar vh-100">
                 <div class="container-fluid d-flex flex-column align-items-start py-3">
                     <!-- Länklista -->
-                    <div class="navbar-collapse w-100">
+                    
                         <ul class="navbar-nav flex-column w-100">
                             <a class="nav-item " asp-area="" asp-page="/Index">
-                                <li class="nav-link text-dark">
+                                <li class="nav-link text-white">
                                     Startsida
                                 </li>
                             </a>
                             <a class="nav-item " asp-area="" asp-page="/Razor">
-                                <li class="nav-link text-dark">
+                                <li class="nav-link text-white">
                                     Razor
                                 </li>
                             </a>
                             <a class="nav-item " asp-area="" asp-page="/About">
-                                <li class="nav-link text-dark">
+                                <li class="nav-link text-white">
                                     Om sida
                                 </li>
                             </a>
                         </ul>
-                    </div>
+                    
                 </div>
             </nav>
         </header>
 
         <!-- Main innehåll -->
-        <main class="main flex-grow-1 p-3 m-3 border border-black ">
+        <main class="main flex-grow-1 p-3 m-3 border border-white border-2">
             <div class="container">
                 <main role="main" class="pb-3">
                     @RenderBody()
@@ -68,10 +67,10 @@
 
         </main>
     </div>
-    <footer class="border border-black footer text-muted m-3 p-3">
+    <footer class="border border-white border-2 footer text-muted m-3 p-3">
         <div class="container text-center">
-            &copy; Av Melvin Bubini - Kontakta mig via epost: <a asp-area=""
-                asp-page="/Privacy">mebu2300@student.miun.se</a>
+            <p> &copy; Av Melvin Bubini - Kontakta mig via epost: <a href="mailto:mebu2300@student.miun.se">mebu2300@student.miun.se</a>
+            </p>
         </div>
     </footer>
 
