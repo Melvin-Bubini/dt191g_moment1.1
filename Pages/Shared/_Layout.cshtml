@@ -13,42 +13,45 @@
 </head>
 
 <body>
-    <div class="container border-bottom vw-100">
+    <div class="header-container border-bottom border-black vw-100">
         <!-- Logotyp -->
-        <a class="navbar-brand mb-4" asp-area="" asp-page="/Index">
-            <img src="images/standardLogo.svg" alt="Logotyp">
+        <a class="navbar-brand mb-0" asp-area="" asp-page="/Index">
+            <img id="logotyp" src="images/standardLogo.svg" alt="Logotyp">
         </a>
 
-        <div class="container">
-            <div>
-                <p>Dagens datum är: </p>
-            </div>
+        <!-- Datum -->
+        <div>
+            @{
+                var date = DateOnly.FromDateTime(DateTime.Now);
+            }
+            <p class="mb-0">Dagens datum är: @date</p>
         </div>
     </div>
+
+
     <div class="d-flex">
         <!-- Header (vänster navigering) -->
-        <header class="header flex-shrink-0">
-            <nav class="navbar navbar-expand-sm navbar-light bg-white border-end vh-100">
+        <header class="header m-3 border border-black">
+            <nav class="navbar navbar-expand-sm navbar-light bg-white vh-100">
                 <div class="container-fluid d-flex flex-column align-items-start py-3">
-                    <!-- Toggler för mindre skärmar -->
-                    <button class="navbar-toggler mb-3" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false"
-                        aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
                     <!-- Länklista -->
-                    <div class="collapse navbar-collapse" id="navbarContent">
+                    <div class="navbar-collapse w-100">
                         <ul class="navbar-nav flex-column w-100">
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-page="/Index">Startsida</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-page="/Razor">Razor</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-page="/About">Om sida</a>
-                            </li>
+                            <a class="nav-item " asp-area="" asp-page="/Index">
+                                <li class="nav-link text-dark">
+                                    Startsida
+                                </li>
+                            </a>
+                            <a class="nav-item " asp-area="" asp-page="/Razor">
+                                <li class="nav-link text-dark">
+                                    Razor
+                                </li>
+                            </a>
+                            <a class="nav-item " asp-area="" asp-page="/About">
+                                <li class="nav-link text-dark">
+                                    Om sida
+                                </li>
+                            </a>
                         </ul>
                     </div>
                 </div>
@@ -56,7 +59,7 @@
         </header>
 
         <!-- Main innehåll -->
-        <main class="main flex-grow-1 p-3">
+        <main class="main flex-grow-1 p-3 m-3 border border-black ">
             <div class="container">
                 <main role="main" class="pb-3">
                     @RenderBody()
@@ -65,7 +68,7 @@
 
         </main>
     </div>
-    <footer class="border-top footer text-muted">
+    <footer class="border border-black footer text-muted m-3 p-3">
         <div class="container text-center">
             &copy; Av Melvin Bubini - Kontakta mig via epost: <a asp-area=""
                 asp-page="/Privacy">mebu2300@student.miun.se</a>

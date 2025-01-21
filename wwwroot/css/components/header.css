@@ -1,7 +1,95 @@
 /* Header (vänster navigering) */
 .header {
-    width: 250px; /* Bestäm bredden på navigeringen */
-    background-color: #f8f9fa; /* Ljus bakgrundsfärg */
-    border-right: 1px solid #ddd; /* Avgränsning till höger */
-    overflow-y: auto; /* Lägg till scroll om innehållet överstiger höjden */
+  width: 250px;
+  background-color: #f8f9fa;
+  overflow: hidden;
+  height: auto;
+  transition: width 0.3s ease;
+}
+/* Vid små skärmar (sm) */
+@media (max-width: 576px) {
+  .header {
+      width: 150px; /* Headern blir smalare vid små skärmar */
   }
+  .navbar-nav li {
+    font-size: 1rem; /* Mindre text på små skärmar */
+    padding: 8px 15px; /* Mindre padding på små skärmar */
+  }
+}
+
+/* Vid medelstora skärmar (md) */
+@media (max-width: 768px) {
+  .header {
+      width: 200px; /* Headern blir lite bredare vid medium skärmar */
+  }
+  .navbar-nav li {
+    font-size: 1.1rem; /* Lite större text på medelstora skärmar */
+    padding: 9px 18px; /* Lite större padding */
+  }
+}
+
+/* Vid stora skärmar (lg) */
+@media (max-width: 992px) {
+  .header {
+      width: 225px; /* Headern blir ännu lite bredare vid större skärmar */
+  }
+  .navbar-nav li {
+    font-size: 1.2rem; /* Större text på stora skärmar */
+    padding: 10px 20px; /* Standard padding */
+  }
+}
+
+/* Tillägg för navbaren */
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* För att hålla länkarna längst upp */
+  align-items: center; /* Se till att de är vänsterjusterade */
+  flex-direction: column; /* För att placera listan vertikalt */
+}
+
+/* För att justera varje list element */
+.navbar-nav a {
+  margin-bottom: 1rem; /* Lite mellanrum mellan varje element */
+  border: 2px solid #000; /* Svart border runt varje li */
+  border-radius: 8px; /* Rundade hörn */
+  padding: 10px 20px; /* Padding för att skapa utrymme inuti */
+  transition: padding 0.3s ease, font-size 0.3s ease;
+}
+
+/* Gör hela listobjektet klickbart */
+.navbar-nav a  {
+  display: block; /* Gör a-taggen till en block-element som tar upp hela li */
+  padding: 10px 20px; /* Padding så att länken täcker hela li */
+  text-align: center; /* Centrerar texten i länken */
+  font-size: 1.2rem; /* Större text */
+  font-weight: bold; /* Fylligare text */
+  text-decoration: none; /* Tar bort understrykning */
+  color: #000; /* Svart textfärg */
+  border-radius: 8px; /* Rundade hörn */
+  transition: font-size 0.3s ease;
+}
+
+/* Hover-effekt för länkar */
+.navbar-nav a:hover {
+  background-color: #383838; /* Ljus bakgrund när hover */
+}
+
+/* Se till att listan börjar högst upp */
+.navbar-nav {
+  padding-top: 0; /* Tar bort eventuellt extra utrymme överst */
+  margin-top: 0; /* Ingen marginal överst */
+}
+
+.header-container {
+  display: flex; /* Gör den till en flex container */
+  justify-content: space-between; /* Placera elementen på olika sidor */
+  align-items: center; /* Centrera elementen vertikalt */
+  width: 100%; /* Säkerställer att den tar upp hela bredden */
+  padding: 2rem; /* Padding runt innehållet för lite utrymme */
+  box-sizing: border-box; /* Inkluderar padding i bredden */
+}
+
+#logotyp {
+  width: 50px;
+}
